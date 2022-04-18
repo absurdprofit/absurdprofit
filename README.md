@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/kq7GyBPPIj0AAAAd/sweaty-speedrunner.gif" width="100"/>
+  <img src="https://c.tenor.com/kq7GyBPPIj0AAAAS/sweaty-speedrunner.gif" width="100"/>
 </div>
 
 <!--

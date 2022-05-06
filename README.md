@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://instagram.fkin2-1.fna.fbcdn.net/v/t51.2885-15/154039652_3641783805917632_4528624026558641608_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fkin2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=o_lrUShjsHIAX-roXbz&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjUxNTA5NTE3OTIxODM5MTk2Ng%3D%3D.2-ccb7-4&oh=00_AT_SoMBR9FNYoYcp_nNpwzVSx9Dz-4cu_ar0K95DPcGPrg&oe=6264D2B6&_nc_sid=30a2ef" width="400" height="400"/>
+  <img src="https://nxtetechnologies.com/nxte.jpg" width="400" height="400"/>
   
   <h6>the absurdist</h6>
 </div>

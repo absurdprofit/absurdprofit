@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://nxtetechnologies.com/nxte.jpg" width="400" height="400" style="height: auto" />
+  <img src="https://nxtetechnologies.com/nxte.jpg" width="300" height="300" style="height: auto" />
   
   <h6>the absurdist</h6>
 </div>

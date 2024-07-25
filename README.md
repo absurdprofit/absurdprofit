@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.postimg.cc/RVP065D2/IMG-5225.jpg" width="300" height="300" style="height: auto" />
+  <img src="https://i.postimg.cc/RVP065D2/IMG-5225.jpg" width="300" style="height: auto" />
   
   <h6>the absurdist</h6>
 </div>
